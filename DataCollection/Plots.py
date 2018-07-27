@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+'''  
+Simple no-growth Agent Based Macroeconomic Model (in Python)
+Copyright (C) 2018 Ritesh Kakade
+
+'''
+
 import matplotlib.pyplot as plt
 #import matplotlib
 import numpy as np

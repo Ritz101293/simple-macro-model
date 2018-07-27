@@ -1,3 +1,10 @@
+'''  
+Simple no-growth Agent Based Macroeconomic Model (in Python)
+Copyright (C) 2018 Ritesh Kakade
+
+'''
+
+
 import numpy as np
 
 def payDividends(myWorld, t, H, Fc, B):
