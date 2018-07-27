@@ -3,10 +3,18 @@ Simple no-growth Agent Based Macroeconomic Model (in Python)
 
 This is the agent based simulation using ideas from the book "Macroeconomics from the Bottom-up" by Domenico Delli Gatti (2011) et al.
 
+Introduction
+------
 run start.py to run the program
 
-Description of the model and Simulation
+Description
+-------
 Coming Soon...
+
+Contributers
+------
+
+Ritesh Kakade <rmkh4301@gmail.com>
 
 License
 -------
